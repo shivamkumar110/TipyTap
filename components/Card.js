@@ -19,7 +19,9 @@ const styles = StyleSheet.create({
         width: 100,
         marginTop: 10,
         marginBottom: 10,
-        backgroundColor: 'grey'
+        backgroundColor: 'grey',
+        flexDirection: "column",
+        flex: 1
     },
     highlighted: {
         backgroundColor:  '#0095da'

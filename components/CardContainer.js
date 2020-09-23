@@ -26,13 +26,13 @@ export default class CardContainer extends Component {
 
 const styles = StyleSheet.create({
     container: {
-      flex: 1, 
+      
       flexDirection: 'row',
       flexWrap: 'wrap',
       alignContent: "center",
       alignItems: 'center',
       borderColor: 'blue',
-      flexGrow: 1,
+      
       justifyContent: 'space-around',
       borderWidth: 2
     },
